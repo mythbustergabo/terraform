@@ -2,4 +2,4 @@
 
 Platforms
 
--Nutanix
+- Nutanix
