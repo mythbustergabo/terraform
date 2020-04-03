@@ -1,4 +1,5 @@
 ## Terraform Scripts, Examples and tricks
 
-#Platforms
+Platforms
+
 -Nutanix
